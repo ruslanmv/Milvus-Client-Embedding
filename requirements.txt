@@ -1,0 +1,5 @@
+pymilvus
+langchain
+gradio
+InstructorEmbedding
+sentence_transformers
